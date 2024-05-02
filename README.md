@@ -19,9 +19,11 @@ Click on "Load unpacked" and select the directory where you cloned/downloaded th
 The extension should now be installed and ready to use!
 
 ## Usage
-Navigate to any YouTube video you want to save.
-Click on the extension icon in your youtube player to save the link to the extension popup.
-To view or manage your saved links, click on the extension icon in your extension bar.
+- Navigate to any YouTube video you want to save.
+- Click on the extension icon in your youtube player to save the link to the extension popup.
+[![youtube player button](https://github.com/MohammedElsaadi/YoutubeLinkSaver-Chrome-Extension/blob/main/Screenshots/youtube%20player.PNG)](#)
+- To view or manage your saved links, click on the extension icon in your extension bar.
+[![extension popup](https://github.com/MohammedElsaadi/YoutubeLinkSaver-Chrome-Extension/blob/main/Screenshots/Extension%20Popup.PNG)](#)
 
 ## Contributing
 I welcome contributions from the community! If you have any ideas for new features, bug fixes, or improvements, feel free to open an issue or submit a pull request.
